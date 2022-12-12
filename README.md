@@ -1,1 +1,1 @@
-# Python_projects
+Contains some simple python projects.
